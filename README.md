@@ -1,5 +1,5 @@
 clockWall
 =========
 
-SVG clock inspired by "Humans since 1982" project.\s\s
-See this page ([http://jsbin.com/hipak]).
+SVG clock inspired by "Humans since 1982" project.<br />
+See this page (http://jsbin.com/hipak).
